@@ -22,6 +22,7 @@ body{
     overflow: hidden;
 	color: #FF9494;
 	font-family: courier;
+    overflow: auto;
 }
 
 #thankyou {
